@@ -1,0 +1,2 @@
+This directory is used by certbot to obtain certificate without stopping the server.
+It is mounted to the webserver container.
